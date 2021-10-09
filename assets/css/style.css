@@ -263,3 +263,13 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
+.hero-cta {
+    text-align: right;
+    width: 300px;
+}
+
+.hero-cta h2 {
+    color: #fce138;
+    font-size: 36px;
+}
